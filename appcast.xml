@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Cell Powered</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 05 Jan 2026 00:30:12 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1/Cell.Powered.0.1.0.dmg" length="5145835" type="application/octet-stream" sparkle:edSignature="JoVkaD0EtEeeOXdTKS9fuK7UuUPCNMF+zUu8HoI/HfUu1azlkFwaBK8UXa5AV8h2SYVGGocpgZbxdRIkMJ93Bw=="/>
+        </item>
+    </channel>
+</rss>
