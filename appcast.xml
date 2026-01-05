@@ -4,11 +4,11 @@
         <title>Cell Powered</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Mon, 05 Jan 2026 01:02:00 -0500</pubDate>
+            <pubDate>Mon, 05 Jan 2026 01:57:23 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.0-beta2/Cell.Powered.0.1.0.dmg" length="5145784" type="application/octet-stream" sparkle:edSignature="U/7p5Wun9S6obeiCFtsBcBG7Z/k2M3w1uwEGaEKlNh7/7gLUu7Cjh7t2AKqYy6y9u7dvBW17+CJuxfdMsCbNBg=="/>
+            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.0/Cell.Powered.0.1.0.dmg" length="5145711" type="application/octet-stream" sparkle:edSignature="g+BsQ+6crm0a52jtUMtTC6x/cfyM5pZ5niiToZYCAjRSNWgNLB90yKPjmTTl53aLdKqFUeZeEc3CfcvQ6mhHDQ=="/>
         </item>
     </channel>
 </rss>
