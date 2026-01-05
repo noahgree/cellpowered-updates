@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.0-beta1/Cell.Powered.0.1.0-2.dmg" length="5145784" type="application/octet-stream" sparkle:edSignature="U/7p5Wun9S6obeiCFtsBcBG7Z/k2M3w1uwEGaEKlNh7/7gLUu7Cjh7t2AKqYy6y9u7dvBW17+CJuxfdMsCbNBg=="/>
+            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.0-beta2/Cell.Powered.0.1.0.dmg" length="5145784" type="application/octet-stream" sparkle:edSignature="U/7p5Wun9S6obeiCFtsBcBG7Z/k2M3w1uwEGaEKlNh7/7gLUu7Cjh7t2AKqYy6y9u7dvBW17+CJuxfdMsCbNBg=="/>
         </item>
     </channel>
 </rss>
