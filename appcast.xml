@@ -5,143 +5,131 @@
         <item>
             <title>0.1.0</title>
             <pubDate>Mon, 05 Jan 2026 19:29:19 -0500</pubDate>
-            <sparkle:version>7</sparkle:version>
+            <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.0/Cell.Powered.0.1.0.dmg" length="5190586" type="application/octet-stream" sparkle:edSignature="7RX8EUDnETh+270mYtk9GP0uSxopYf1WhQL3mGoak8PDi6D14awoNZaKSFtBSWUYhOXEGtMil1573ZYB4sqeBQ=="/>
-            <description><![CDATA[
-                <!doctype html>
-                <html>
-                    <head>
-                        <meta charset="utf-8" />
-                        <meta name="viewport" content="width=device-width, initial-scale=1" />
-                        <style>
-                            :root {
-                                color-scheme: light dark;
-                            }
+            <description><![CDATA[<!doctype html>
+<html>
+   <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <style>
+         :root {
+            color-scheme: light dark;
+         }
 
-                            html, body {
-                                margin: 0;
-                                padding: 0;
-                            }
+         html, body {
+            margin: 0;
+            padding: 0;
+         }
 
-                            body {
-                                font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", sans-serif;
-                                font-size: 15px;
-                                line-height: 1.45;
-                                padding: 16px 18px;
-                            }
+         body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", sans-serif;
+            font-size: 15px;
+            line-height: 1.45;
+            padding: 16px 18px;
+         }
 
-                            .rn {
-                                max-width: 720px;
-                                margin: 0 auto;
-                            }
+         .rn {
+            max-width: 720px;
+            margin: 0 auto;
+         }
 
-                            .rn-header {
-                                margin-bottom: 14px;
-                            }
+         .rn-header {
+            margin-bottom: 14px;
+         }
 
-                            .rn-title {
-                                font: -apple-system-title2;
-                                margin: 0;
-                            }
+         .rn-title {
+            font: -apple-system-title2;
+            margin: 0;
+         }
 
-                            .rn-subtitle {
-                                font: -apple-system-footnote;
-                                margin: 6px 0 0 0;
-                                opacity: 0.75;
-                            }
+         .rn-subtitle {
+            font: -apple-system-footnote;
+            margin: 6px 0 0 0;
+            opacity: 0.75;
+         }
 
-                            .rn-card {
-                                border: 1px solid rgba(127, 127, 127, 0.25);
-                                border-radius: 12px;
-                                padding: 12px 14px;
-                                margin: 12px 0;
-                            }
+         .rn-card {
+            border: 1px solid rgba(127, 127, 127, 0.25);
+            border-radius: 12px;
+            padding: 12px 14px;
+            margin: 12px 0;
+         }
 
-                            .rn-card h2 {
-                                font: -apple-system-headline;
-                                margin: 0 0 8px 0;
-                            }
+         .rn-card h2 {
+            font: -apple-system-headline;
+            margin: 0 0 8px 0;
+         }
 
-                            .rn-card ul {
-                                margin: 0;
-                                padding-left: 18px;
-                            }
+         .rn-card ul {
+            margin: 0;
+            padding-left: 18px;
+         }
 
-                            .rn-card li {
-                                margin: 6px 0;
-                            }
+         .rn-card li {
+            margin: 6px 0;
+         }
 
-                            .rn-badges {
-                                display: flex;
-                                flex-wrap: wrap;
-                                gap: 8px;
-                                margin-top: 10px;
-                            }
+         .rn-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 10px;
+         }
 
-                            .rn-badge {
-                                font: -apple-system-footnote;
-                                padding: 4px 8px;
-                                border-radius: 999px;
-                                border: 1px solid rgba(127, 127, 127, 0.25);
-                                background: rgba(127, 127, 127, 0.10);
-                                white-space: nowrap;
-                            }
+         .rn-badge {
+            font: -apple-system-footnote;
+            padding: 4px 8px;
+            border-radius: 999px;
+            border: 1px solid rgba(127, 127, 127, 0.25);
+            background: rgba(127, 127, 127, 0.10);
+            white-space: nowrap;
+         }
 
-                            .rn-footer {
-                                font: -apple-system-footnote;
-                                margin-top: 14px;
-                                opacity: 0.75;
-                            }
+         .rn-footer {
+            font: -apple-system-footnote;
+            margin-top: 14px;
+            opacity: 0.75;
+         }
+      </style>
+   </head>
+   <body>
+      <div class="rn">
+         <header class="rn-header">
+            <h1 class="rn-title">Cell Powered 0.1.0</h1>
+            <p class="rn-subtitle">Initial public build.</p>
+            <div class="rn-badges">
+               <span class="rn-badge">macOS 15.6+</span>
+               <span class="rn-badge">Build 8</span>
+            </div>
+         </header>
 
-                            .rn-footer code {
-                                font: -apple-system-body;
-                                padding: 1px 6px;
-                                border-radius: 6px;
-                                border: 1px solid rgba(127, 127, 127, 0.25);
-                                background: rgba(127, 127, 127, 0.10);
-                            }
-                        </style>
-                    </head>
-                    <body>
-                        <div class="rn">
-                            <header class="rn-header">
-                                <h1 class="rn-title">Cell Powered 0.1.0</h1>
-                                <p class="rn-subtitle">Initial public build.</p>
-                                <div class="rn-badges">
-                                    <span class="rn-badge">macOS 15.6+</span>
-                                    <span class="rn-badge">Build 7</span>
-                                </div>
-                            </header>
+         <section class="rn-card">
+            <h2>Highlights</h2>
+            <ul>
+               <!-- <li>Add your top 1–2 highlights here.</li> -->
+            </ul>
+         </section>
 
-                            <section class="rn-card">
-                                <h2>Highlights</h2>
-                                <ul>
-                                    <li>Implemented Sparkle updater framework.</li>
-                                    <li><!-- Add your top 1–2 highlights here. --></li>
-                                </ul>
-                            </section>
+         <!-- <section class="rn-card">
+            <h2>New</h2>
+            <ul>
+               <li>Feature</li>
+            </ul>
+         </section> -->
 
-                            <section class="rn-card">
-                                <h2>New</h2>
-                                <ul>
-                                    <li><!-- Feature --></li>
-                                    <li><!-- Feature --></li>
-                                </ul>
-                            </section>
-
-                            <section class="rn-card">
-                                <h2>Fixed</h2>
-                                <ul>
-                                    <li><!-- Bug fix --></li>
-                                </ul>
-                            </section>
-                        </div>
-                    </body>
-                </html>
-            ]]>
-            </description>
-        </item>
+         <!-- <section class="rn-card">
+            <h2>Fixed</h2>
+            <ul>
+               <li>Bug fix</li>
+            </ul>
+         </section> -->
+      </div>
+   </body>
+</html>
+]]></description>
+</item>
     </channel>
 </rss>
