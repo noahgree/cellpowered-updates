@@ -3,12 +3,12 @@
     <channel>
         <title>Cell Powered</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Mon, 05 Jan 2026 19:29:19 -0500</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.1.1</title>
+            <pubDate>Tue, 06 Jan 2026 01:45:45 -0500</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.0/Cell.Powered.0.1.0.dmg" length="5190586" type="application/octet-stream" sparkle:edSignature="7RX8EUDnETh+270mYtk9GP0uSxopYf1WhQL3mGoak8PDi6D14awoNZaKSFtBSWUYhOXEGtMil1573ZYB4sqeBQ=="/>
+            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.1/Cell.Powered.0.1.1.dmg" length="5204831" type="application/octet-stream" sparkle:edSignature="xeazSNWni+sdcIJ1SFfXZfqPWv5s9DYGpoaEZsuKLFS/5f0LbDjP0utBX/wF7qWqWlyDWZ3Suvd0sZJ5AVLhBg=="/>
             <description><![CDATA[<!doctype html>
 <html>
    <head>
@@ -98,18 +98,19 @@
    <body>
       <div class="rn">
          <header class="rn-header">
-            <h1 class="rn-title">Cell Powered 0.1.0</h1>
-            <p class="rn-subtitle">Initial public build.</p>
+            <h1 class="rn-title">Cell Powered v0.1.1</h1>
+            <!-- <p class="rn-subtitle">Initial public build.</p> -->
             <div class="rn-badges">
+               <span class="rn-badge">Neo</span>
+               <span class="rn-badge">Build 6</span>
                <span class="rn-badge">macOS 15.6+</span>
-               <span class="rn-badge">Build 8</span>
             </div>
          </header>
 
          <section class="rn-card">
             <h2>Highlights</h2>
             <ul>
-               <!-- <li>Add your top 1–2 highlights here.</li> -->
+               <li>Highlight</li>
             </ul>
          </section>
 
