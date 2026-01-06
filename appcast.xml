@@ -5,7 +5,8 @@
         <item>
             <title>0.1.0</title>
             <pubDate>Mon, 05 Jan 2026 19:29:19 -0500</pubDate>
-            <sparkle:version>6</sparkle:version>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure url="https://noahgree.github.io/cellpowered-updates/Cell%20Powered%200.1.0.dmg" length="5190586" type="application/octet-stream" sparkle:edSignature="7RX8EUDnETh+270mYtk9GP0uSxopYf1WhQL3mGoak8PDi6D14awoNZaKSFtBSWUYhOXEGtMil1573ZYB4sqeBQ=="/>
         </item>
