@@ -110,7 +110,7 @@
          <section class="rn-card">
             <h2>Highlights</h2>
             <ul>
-               <li>Public beta</li>
+               <li>New window and info card theming capability.</li>
             </ul>
          </section>
 
@@ -124,7 +124,8 @@
          <section class="rn-card">
             <h2>Fixed</h2>
             <ul>
-               <li>Fixed updater framework signing error</li>
+                <li>Fixed updater framework signing error</li>
+                <li>Fixed settings page icons showing dark when in light mode</li>
             </ul>
          </section>
       </div>
