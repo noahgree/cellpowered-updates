@@ -110,7 +110,7 @@
          <section class="rn-card">
             <h2>Highlights</h2>
             <ul>
-               <li>First public beta build!</li>
+               <li>Public beta</li>
             </ul>
          </section>
 
@@ -121,12 +121,12 @@
             </ul>
          </section> -->
 
-         <!-- <section class="rn-card">
+         <section class="rn-card">
             <h2>Fixed</h2>
             <ul>
-               <li>Bug fix</li>
+               <li>Fixed updater framework signing error</li>
             </ul>
-         </section> -->
+         </section>
       </div>
    </body>
 </html>
