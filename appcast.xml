@@ -4,11 +4,11 @@
         <title>Cell Powered</title>
         <item>
             <title>0.1.1</title>
-            <pubDate>Sun, 11 Jan 2026 05:30:02 -0500</pubDate>
-            <sparkle:version>344</sparkle:version>
+            <pubDate>Sun, 11 Jan 2026 05:52:41 -0500</pubDate>
+            <sparkle:version>345</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.1/Cell.Powered.dmg" length="5533419" type="application/octet-stream" sparkle:edSignature="TmquEr7ga0xxbDp8G/grEBe33GqsujSzFxnbDQ+oOJdV9N979FE7wDWLaoIQGVK7o09YGP/5NuQt5DjzG/hgCw=="/>
+            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.1/Cell.Powered.dmg" length="5533169" type="application/octet-stream" sparkle:edSignature="xjCwnbWru6MTaOE8mPyvw+Rbx2/5h2CeUdEP22hCKCUnPpf4Jf4Ik19ZiM2QDCzCb0QN1Mwu/Xjwl1hvSrFmAw=="/>
             <description><![CDATA[<!doctype html>
 <html>
    <head>
@@ -102,7 +102,7 @@
             <!-- <p class="rn-subtitle">Initial public build.</p> -->
             <div class="rn-badges">
                <span class="rn-badge">Neo</span>
-               <span class="rn-badge">Build 344</span>
+               <span class="rn-badge">Build 345</span>
                <span class="rn-badge">macOS 15.6+</span>
             </div>
          </header>
