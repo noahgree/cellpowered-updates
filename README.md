@@ -1,2 +1,2 @@
-# cellpowered-updates
-Releases for Cell Powered.
+# Cell Powered
+### Releases, issues, and feature requests for Cell Powered.
