@@ -4,11 +4,11 @@
         <title>Cell Powered</title>
         <item>
             <title>0.1.1</title>
-            <pubDate>Tue, 13 Jan 2026 07:44:31 -0500</pubDate>
-            <sparkle:version>350</sparkle:version>
+            <pubDate>Tue, 13 Jan 2026 19:27:32 -0500</pubDate>
+            <sparkle:version>351</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.1/Cell.Powered.dmg" length="5525120" type="application/octet-stream" sparkle:edSignature="tBzVJh34HkroDa8DlmA+SWgXgTt5hVsfvfe8plqk2Fxy1xtP3HSDDQWSxw4AetxqLvC7VFC8Vs4lf/D7AgWiBw=="/>
+            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.1/Cell.Powered.dmg" length="5534884" type="application/octet-stream" sparkle:edSignature="So+FhuMtRP8677LW82B3DMwsiPu5tT3FBCYd41dXoouNDu+YSI76VGG1lNqPgyvQUDd8g3ofGe3ddtz6WC/tDQ=="/>
             <description><![CDATA[<!doctype html>
 <html>
    <head>
@@ -102,7 +102,7 @@
             <!-- <p class="rn-subtitle">Initial public build.</p> -->
             <div class="rn-badges">
                <span class="rn-badge">Neo</span>
-               <span class="rn-badge">Build 350</span>
+               <span class="rn-badge">Build 351</span>
                <span class="rn-badge">macOS 15.6+</span>
             </div>
          </header>
@@ -110,7 +110,7 @@
          <section class="rn-card">
             <h2>Highlights</h2>
             <ul>
-               <li>Appearance presets. Open settings and create your own saved preset (or choose from built-ins).</li>
+               <li>Presets can now be accessed from the menubar window under the paintbrush icon. The settings icon was moved into the 'three dots' submenu and can still be opened with its keyboard shortcut directly.</li>
                <li>Improved onboarding experience.</li>
                <li>Updated 'About' section with information about privacy and options to report bugs/suggest new features.</li>
             </ul>
@@ -126,6 +126,7 @@
          <section class="rn-card">
             <h2>Fixed</h2>
             <ul>
+               <li>Fixed signing error once again.</li>
                <li>Fixed energy usage spiking after viewing onboarding.</li>
             </ul>
          </section>
