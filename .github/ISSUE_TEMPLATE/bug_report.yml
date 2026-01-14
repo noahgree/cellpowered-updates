@@ -31,7 +31,7 @@ body:
     attributes:
       label: Cell Powered Version
       description: >-
-        What version of our app are you running? (Click ⚙ in the menu bar window > About)
+        What version of our app are you running? (Click the three dots in the menu bar window > click ⚙ > About)
     validations:
       required: true
   - type: input
