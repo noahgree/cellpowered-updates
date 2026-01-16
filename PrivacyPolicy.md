@@ -1,0 +1,4 @@
+# Privacy Policy
+- Licensing is handled via the third-party provider Lemon Squeezy. This means the app communicates with Lemon Squeezy’s servers to verify licenses and check trial status. Aside from data required by Lemon Squeezy’s services, no additional information is transferred over the network. For more details, please see Lemon Squeezy’s [Privacy Policy](https://www.lemonsqueezy.com/privacy).
+- The developer does not build any marketing lists (there is no marketing opt-in) or maintain a usage database that collects unique or non-unique identifiers—except for what is collected by Lemon Squeezy for license management.
+- Aside from Lemon Squeezy, the only other network communication is performed by the built-in updater (Sparkle), which retrieves update metadata and downloads updates from GitHub.
