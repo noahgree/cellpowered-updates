@@ -4,11 +4,11 @@
         <title>Cell Powered</title>
         <item>
             <title>0.1.1</title>
-            <pubDate>Thu, 15 Jan 2026 01:37:57 -0500</pubDate>
-            <sparkle:version>352</sparkle:version>
+            <pubDate>Sat, 17 Jan 2026 08:05:34 -0500</pubDate>
+            <sparkle:version>353</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.1/Cell.Powered.dmg" length="9604632" type="application/octet-stream" sparkle:edSignature="aKQzBPT+wmrfmqr/Gdd8nDeduN3sv0JUv/lybR0GKuOHtBLlnJr0/Sub5SJpBbgslzDR3XSmqr29L9eq29vlAQ=="/>
+            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.1/Cell.Powered.dmg" length="9884973" type="application/octet-stream" sparkle:edSignature="Z2cHGufXv8cPAlvEnaSREDGE7XQl/cJju5WHI3D22KNWCcj41SblhGVowZ2LYXaKg+8LsARz/Z9ftv1MWKReDw=="/>
             <description><![CDATA[<!doctype html>
 <html>
    <head>
@@ -102,7 +102,7 @@
             <!-- <p class="rn-subtitle">Initial public build.</p> -->
             <div class="rn-badges">
                <span class="rn-badge">Neo</span>
-               <span class="rn-badge">Build 352</span>
+               <span class="rn-badge">Build 353</span>
                <span class="rn-badge">macOS 15.6+</span>
             </div>
          </header>
@@ -110,6 +110,7 @@
          <section class="rn-card">
             <h2>Highlights</h2>
             <ul>
+               <li>Added licensing to unlock the app after a 7 day trial.</li>
                <li>Add many new presets.</li>
                <li>New app icons.</li>
                <li>Presets can now be accessed from the menubar window under the paintbrush icon. The settings icon was moved into the 'three dots' submenu and can still be opened with its keyboard shortcut directly.</li>
