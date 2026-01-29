@@ -4,11 +4,11 @@
         <title>Cell Powered</title>
         <item>
             <title>0.1.2</title>
-            <pubDate>Wed, 28 Jan 2026 08:26:20 -0500</pubDate>
-            <sparkle:version>361</sparkle:version>
+            <pubDate>Thu, 29 Jan 2026 15:46:29 -0500</pubDate>
+            <sparkle:version>362</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.2/Cell.Powered.dmg" length="10725864" type="application/octet-stream" sparkle:edSignature="pPLCk3WsWvDVR/sYLyP0bnd/9JzOnuWhtqkuBcjWGOESpqSEZTBNx2Ow1TFWa11Gj/sYB1MG3ZBPXr0zqvoqDQ=="/>
+            <enclosure url="https://github.com/noahgree/cellpowered-updates/releases/download/v0.1.2/Cell.Powered.dmg" length="10725593" type="application/octet-stream" sparkle:edSignature="OzwXkSlcbM8diS1aAN/CTibKA+thehJ6Z4Jd/MycpdM7eu3+6Y7EgfTkpfKPHlzUPIz2Zyem2LWtScVfybGjBA=="/>
             <description><![CDATA[<!doctype html>
 <html>
    <head>
@@ -102,7 +102,7 @@
             <!-- <p class="rn-subtitle">Initial public build.</p> -->
             <div class="rn-badges">
                <span class="rn-badge">Neo</span>
-               <span class="rn-badge">Build 361</span>
+               <span class="rn-badge">Build 362</span>
                <span class="rn-badge">macOS 15.6+</span>
             </div>
          </header>
@@ -119,6 +119,7 @@
          <section class="rn-card">
             <h2>New</h2>
             <ul>
+               <li>Made it easier to click row items in the main window for more information.</li>
                <li>Improved the look of the update notification.</li>
                <li>Brought back old icon.</li>
             </ul>
@@ -127,6 +128,7 @@
          <section class="rn-card">
             <h2>Fixed</h2>
             <ul>
+               <li>Fixed strange padding and background colors in the notification preview in settings.</li>
                <li>Fixed updater notification showing when not needed.</li>
             </ul>
          </section>
